@@ -1,0 +1,13 @@
+.cust-card-header {
+    background-color: hsl(30, 50%, 60%, 95%) !important;
+}
+
+.cust-scroll {
+    max-height: 580px;
+    overflow-y: auto;
+}
+
+.cust-modal-body {
+    max-height: 620px;
+    overflow-y: auto;
+}

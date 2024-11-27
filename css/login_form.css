@@ -1,0 +1,32 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    position: relative;
+    background-image: url("../public/assets/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh !important;
+    width: 100% !important;
+    overflow: hidden;
+}
+
+.cust-card{
+    overflow: hidden;
+}
+
+.cust-card-body {
+    background-color: hsl(30, 50%, 60%, 95%);
+    border: none;
+}
+
+.cust-btn {
+    background-color: hsl(225, 100%, 65%) !important;
+    border: none;
+}
